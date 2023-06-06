@@ -6,7 +6,7 @@
 import * as React from 'react';
 import { RouteComponentProps } from 'react-router-dom';
 import { withTranslation, WithTranslation } from "react-i18next";
-import { initializeIcons } from 'office-ui-fabric-react/lib/Icons';
+import { initializeIcons } from 'office-ui-fabric-react';
 import * as AdaptiveCards from "adaptivecards";
 import { Button, Loader, Dropdown, Text, Flex, Input, TextArea, RadioGroup, Checkbox, Datepicker } from '@fluentui/react-northstar'
 import { TrashCanIcon, AddIcon, FilesUploadIcon } from '@fluentui/react-icons-northstar'
