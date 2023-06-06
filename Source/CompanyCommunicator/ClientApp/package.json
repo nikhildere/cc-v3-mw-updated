@@ -17,7 +17,7 @@
     "moment": "2.24.0",
     "msteams-ui-components-react": "^0.8.1",
     "msteams-ui-icons-react": "^0.4.1",
-    "office-ui-fabric-react": "^6.188.1",
+    "office-ui-fabric-react": "6.188.1",
     "papaparse": "^5.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
