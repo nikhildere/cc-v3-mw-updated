@@ -70,6 +70,6 @@
     "@types/redux": "^3.6.0",
     "tslint": "^5.20.0",
     "tslint-microsoft-contrib": "6.2.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^4.0.3"
   }
 }
