@@ -59,7 +59,7 @@ class DraftMessages extends React.Component<IMessageProps, IMessageState> {
 
     constructor(props: IMessageProps) {
         super(props);
-        //initializeIcons();
+        initializeIcons();
         this.localize = this.props.t;
         this.isOpenTaskModuleAllowed = true;
         this.state = {
